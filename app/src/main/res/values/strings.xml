@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListItDown</string>
+    <string name="text">text</string>
+    <string name="layout_icon">Layout Icon</string>
+</resources>
